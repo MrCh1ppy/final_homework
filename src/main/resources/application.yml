@@ -1,0 +1,5 @@
+hdfs:
+  hdfsPath: hdfs://127.0.0.1:9000
+  hdfsName: fs.defaultFS
+server:
+  port: 30001

@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Dec 14 14:57:31 CST 2022
+maven-install-plugin-2.5.2.jar>sheca-nexus=
+maven-install-plugin-2.5.2.pom>sheca-nexus=

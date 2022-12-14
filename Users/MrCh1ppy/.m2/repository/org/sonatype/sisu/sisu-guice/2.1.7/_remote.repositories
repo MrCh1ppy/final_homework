@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Dec 14 14:58:42 CST 2022
+sisu-guice-2.1.7.pom>sheca-nexus=
+sisu-guice-2.1.7-noaop.jar>sheca-nexus=

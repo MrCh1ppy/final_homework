@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Dec 14 14:57:46 CST 2022
+netty-resolver-dns-native-macos-4.1.85.Final-osx-x86_64.jar>sheca-nexus=
+netty-resolver-dns-native-macos-4.1.85.Final.pom>sheca-nexus=
+netty-resolver-dns-native-macos-4.1.85.Final-osx-aarch_64.jar>sheca-nexus=
